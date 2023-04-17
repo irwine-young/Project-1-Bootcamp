@@ -35,7 +35,6 @@ The Reserve Bank of Australia (RBA) uses a variety of factors and data to determ
 +	RBA quarterly GDP dataset
 +	RBA monthly exchange rate dataset
 +	RBA commodities dataset
-+	Commbank Standard variable rate (principal and interest rate) dataset
 +	Unemployment job data dataset
 
 ### Rough Breakdown of Tasks:
